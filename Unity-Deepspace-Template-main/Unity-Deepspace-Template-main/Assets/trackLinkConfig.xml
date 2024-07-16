@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<UnityPharusConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ConfigNodes>
+    <ConfigNode name="enabled">
+      <Value>1</Value>
+    </ConfigNode>
+    <ConfigNode name="protocol">
+      <Value>UDP</Value>
+    </ConfigNode>
+    <ConfigNode name="udp-multicast-ip">
+      <Value>239.1.1.1</Value>
+    </ConfigNode>
+    <ConfigNode name="udp-port">
+      <Value>44345</Value>
+    </ConfigNode>
+    <ConfigNode name="targetResolutionX">
+      <Value>3100</Value>
+    </ConfigNode>
+    <ConfigNode name="targetResolutionY">
+      <Value>700</Value>
+    </ConfigNode>
+    <ConfigNode name="stageX">
+      <Value>1500</Value>
+    </ConfigNode>
+    <ConfigNode name="stageY">
+      <Value>800</Value>
+    </ConfigNode>
+  </ConfigNodes>
+</UnityPharusConfig>
