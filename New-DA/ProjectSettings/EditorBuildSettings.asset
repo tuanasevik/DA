@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/SceneWithTracking.unity
+    guid: 8124e5870f4fd4c779e7a5f994e84ad1
+  - enabled: 1
+    path: Assets/SceneWithTrackingTwoCams.unity
+    guid: 010010f9187f34c28b493f03e69c6819
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
